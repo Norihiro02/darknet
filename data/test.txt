@@ -913,7 +913,6 @@
 /content/drive/My Drive/DeepLearning/YOLO_train/train_imgs/SearchTarget_0_2706.jpg
 /content/drive/My Drive/DeepLearning/YOLO_train/train_imgs/SearchTarget_0_6485.jpg
 /content/drive/My Drive/DeepLearning/YOLO_train/train_imgs/SearchTarget_0_2717.jpg
-/content/drive/My Drive/DeepLearning/YOLO_train/train_imgs/SearchTarget_0_6578.jpg
 /content/drive/My Drive/DeepLearning/YOLO_train/train_imgs/SearchTarget_0_6589.jpg
 /content/drive/My Drive/DeepLearning/YOLO_train/train_imgs/SearchTarget_0_2743.jpg
 /content/drive/My Drive/DeepLearning/YOLO_train/train_imgs/SearchTarget_0_6611.jpg
