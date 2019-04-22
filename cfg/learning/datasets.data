@@ -1,5 +1,5 @@
 classes= 1
 train  = data/train.txt
 valid  = data/test.txt
-names = cfg/learning/class.txt
+names = data/class.txt
 backup = /content/drive/My Drive/DeepLearning/YOLO_train
