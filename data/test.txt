@@ -1014,7 +1014,6 @@
 /content/drive/My Drive/DeepLearning/YOLO_train/train_imgs/SearchTarget_0_3173.jpg
 /content/drive/My Drive/DeepLearning/YOLO_train/train_imgs/SearchTarget_0_9827.jpg
 /content/drive/My Drive/DeepLearning/YOLO_train/train_imgs/SearchTarget_0_9876.jpg
-/content/drive/My Drive/DeepLearning/YOLO_train/train_imgs/SearchTarget_0_9893.jpg
 /content/drive/My Drive/DeepLearning/YOLO_train/train_imgs/SearchTarget_0_3189.jpg
 /content/drive/My Drive/DeepLearning/YOLO_train/train_imgs/SearchTarget_0_3192.jpg
 /content/drive/My Drive/DeepLearning/YOLO_train/train_imgs/SearchTarget_0_9961.jpg
