@@ -2,4 +2,4 @@ classes= 1
 train  = data/train.txt
 valid  = data/test.txt
 names = data/class.txt
-backup = /content/drive/My Drive/DeepLearning/YOLO_train
+backup = '/content/drive/My Drive/DeepLearning/YOLO_train'
