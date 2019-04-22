@@ -1,5 +1,5 @@
 classes= 1
-train  = '/content/darknet/cfg/learning/train.txt'
-valid  = '/content/darknet/cfg/learning/test.txt'
-names = '/content/darknet/cfg/learning/class.txt'
-backup = '/content/drive/My Drive/DeepLearning/YOLO_train'
+train  = /content/darknet/cfg/learning/train.txt
+valid  = /content/darknet/cfg/learning/test.txt
+names = /content/darknet/cfg/learning/class.txt
+backup = /content/drive/My Drive/DeepLearning/YOLO_train
